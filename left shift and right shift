@@ -1,0 +1,7 @@
+1.5<<1 left shift places
+ex:
+digit * 2^place
+
+2.right shift
+ex:
+digit * 1/2^places
